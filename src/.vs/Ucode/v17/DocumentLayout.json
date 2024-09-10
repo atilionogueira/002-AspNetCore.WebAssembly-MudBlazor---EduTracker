@@ -3,39 +3,16 @@
   "WorkspaceRootPath": "C:\\UcodeAluno\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|c:\\ucodealuno\\src\\ucode.core\\models\\modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|solutionrelative:ucode.core\\models\\modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|c:\\ucodealuno\\src\\ucode.core\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|solutionrelative:ucode.core\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|c:\\ucodealuno\\src\\ucode.core\\models\\modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|solutionrelative:ucode.core\\models\\modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|c:\\ucodealuno\\src\\ucode.core\\models\\controlealuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|solutionrelative:ucode.core\\models\\controlealuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{210E17DD-2D91-421F-8097-421CA99A06E3}|Ucode.Api\\Ucode.Api.csproj|c:\\ucodealuno\\src\\ucode.api\\ucode.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{210E17DD-2D91-421F-8097-421CA99A06E3}|Ucode.Api\\Ucode.Api.csproj|solutionrelative:ucode.api\\ucode.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|c:\\ucodealuno\\src\\ucode.core\\ucode.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|solutionrelative:ucode.core\\ucode.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/UcodeAluno/True/SqlTable/dbo.Cursos.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{210E17DD-2D91-421F-8097-421CA99A06E3}|Ucode.Api\\Ucode.Api.csproj|c:\\ucodealuno\\src\\ucode.api\\handlers\\cursohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{210E17DD-2D91-421F-8097-421CA99A06E3}|Ucode.Api\\Ucode.Api.csproj|solutionrelative:ucode.api\\handlers\\cursohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{210E17DD-2D91-421F-8097-421CA99A06E3}|Ucode.Api\\Ucode.Api.csproj|c:\\ucodealuno\\src\\ucode.api\\handlers\\alunohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{210E17DD-2D91-421F-8097-421CA99A06E3}|Ucode.Api\\Ucode.Api.csproj|solutionrelative:ucode.api\\handlers\\alunohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{210E17DD-2D91-421F-8097-421CA99A06E3}|Ucode.Api\\Ucode.Api.csproj|c:\\ucodealuno\\src\\ucode.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{210E17DD-2D91-421F-8097-421CA99A06E3}|Ucode.Api\\Ucode.Api.csproj|solutionrelative:ucode.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,116 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Modulo.cs",
-              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Core\\Models\\Modulo.cs",
-              "RelativeDocumentMoniker": "Ucode.Core\\Models\\Modulo.cs",
-              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Core\\Models\\Modulo.cs",
-              "RelativeToolTip": "Ucode.Core\\Models\\Modulo.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAIwBEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T14:39:26.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Curso.cs",
-              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Core\\Models\\Curso.cs",
-              "RelativeDocumentMoniker": "Ucode.Core\\Models\\Curso.cs",
-              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Core\\Models\\Curso.cs",
-              "RelativeToolTip": "Ucode.Core\\Models\\Curso.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAIwBEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T14:39:18.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ControleAluno.cs",
               "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Core\\Models\\ControleAluno.cs",
               "RelativeDocumentMoniker": "Ucode.Core\\Models\\ControleAluno.cs",
               "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Core\\Models\\ControleAluno.cs",
               "RelativeToolTip": "Ucode.Core\\Models\\ControleAluno.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA0wBYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T14:39:11.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ucode.Api",
-              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Api\\Ucode.Api.csproj",
-              "RelativeDocumentMoniker": "Ucode.Api\\Ucode.Api.csproj",
-              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Api\\Ucode.Api.csproj",
-              "RelativeToolTip": "Ucode.Api\\Ucode.Api.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-08T14:08:37.57Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:57:39.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Ucode.Core",
-              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Core\\Ucode.Core.csproj",
-              "RelativeDocumentMoniker": "Ucode.Core\\Ucode.Core.csproj",
-              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Core\\Ucode.Core.csproj",
-              "RelativeToolTip": "Ucode.Core\\Ucode.Core.csproj",
+              "DocumentIndex": 1,
+              "Title": "Modulo.cs",
+              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Core\\Models\\Modulo.cs",
+              "RelativeDocumentMoniker": "Ucode.Core\\Models\\Modulo.cs",
+              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Core\\Models\\Modulo.cs",
+              "RelativeToolTip": "Ucode.Core\\Models\\Modulo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-08T14:08:22.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "dbo.Cursos [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/UcodeAluno/True/SqlTable/dbo.Cursos.sql",
-              "ToolTip": "dbo.Cursos [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-09-08T13:36:58.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Ucode.Api\\Program.cs",
-              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Api\\Program.cs",
-              "RelativeToolTip": "Ucode.Api\\Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T13:10:07.726Z",
+              "WhenOpened": "2024-09-10T00:57:29.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AlunoHandler.cs",
-              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Api\\Handlers\\AlunoHandler.cs",
-              "RelativeDocumentMoniker": "Ucode.Api\\Handlers\\AlunoHandler.cs",
-              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Api\\Handlers\\AlunoHandler.cs",
-              "RelativeToolTip": "Ucode.Api\\Handlers\\AlunoHandler.cs",
-              "ViewState": "AQIAAHkAAAAAAAAAAAAAAIkAAAAFAAAA",
+              "DocumentIndex": 0,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Core\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "Ucode.Core\\Models\\Curso.cs",
+              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Core\\Models\\Curso.cs",
+              "RelativeToolTip": "Ucode.Core\\Models\\Curso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T00:19:56.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CursoHandler.cs",
-              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Api\\Handlers\\CursoHandler.cs",
-              "RelativeDocumentMoniker": "Ucode.Api\\Handlers\\CursoHandler.cs",
-              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Api\\Handlers\\CursoHandler.cs",
-              "RelativeToolTip": "Ucode.Api\\Handlers\\CursoHandler.cs",
-              "ViewState": "AQIAAGQAAAAAAAAAAAAAAHwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T22:38:00.403Z",
+              "WhenOpened": "2024-09-10T00:57:10.757Z",
               "EditorCaption": ""
             }
           ]

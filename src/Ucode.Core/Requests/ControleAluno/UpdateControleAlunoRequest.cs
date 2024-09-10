@@ -8,7 +8,10 @@ namespace Ucode.Core.Requests.ControleAluno
         public long Id { get; set; }
 
         [Required(ErrorMessage = "Data inválida")]
-        public DateTime Data { get; set; }
+        public DateTime DataInicio { get; set; } = DateTime.Now;
+
+        [Required(ErrorMessage = "Data inválida")]
+        public DateTime? DataFim { get; set; }
 
         [Required()]
         public string Resumo { get; set; } = string.Empty;

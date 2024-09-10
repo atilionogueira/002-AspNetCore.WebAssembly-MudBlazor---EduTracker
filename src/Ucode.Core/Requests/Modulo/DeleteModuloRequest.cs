@@ -1,7 +1,7 @@
 ﻿
 namespace Ucode.Core.Requests.Modulo
 {
-    public class DeleteModuloRequest
+    public class DeleteModuloRequest : Request
     {
         public long Id { get; set; }
     }

@@ -12,8 +12,11 @@ namespace Ucode.Api.Data.Mappings
 
             builder.HasKey(x => x.Id);
 
-            builder.Property(ca => ca.Data)
-               .IsRequired(true);
+            builder.Property(m => m.DataInicio)
+                .IsRequired();
+
+            builder.Property(m => m.DataFim)
+                 .IsRequired();
 
             builder.Property(ca => ca.Resumo)
                 .IsRequired(true)

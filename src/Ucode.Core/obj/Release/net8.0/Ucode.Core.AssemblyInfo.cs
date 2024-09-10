@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ucode.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fa8f83df1b2014a9549dd656b601791548e1c62")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ucode.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ucode.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

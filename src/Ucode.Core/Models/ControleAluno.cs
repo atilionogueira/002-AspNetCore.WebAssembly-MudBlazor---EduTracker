@@ -3,8 +3,9 @@ namespace Ucode.Core.Models
 {
     public class ControleAluno
     {
-        public long Id { get; set; }
-        public DateTime Data { get; set; }
+        public long Id { get; set; }       
+        public DateTime DataInicio { get; set; } = DateTime.Now;
+        public DateTime? DataFim { get; set; }
         public string Resumo { get; set; } = string.Empty;
 
         public long AlunoId { get; set; }

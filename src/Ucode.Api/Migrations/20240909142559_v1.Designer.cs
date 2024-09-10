@@ -12,7 +12,7 @@ using Ucode.Api.Data;
 namespace Ucode.Api.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240904180413_v1")]
+    [Migration("20240909142559_v1")]
     partial class v1
     {
         /// <inheritdoc />
@@ -86,7 +86,11 @@ namespace Ucode.Api.Migrations
                     b.Property<long>("CursoId")
                         .HasColumnType("bigint");
 
-                    b.Property<DateTime>("Data")
+                    b.Property<DateTime?>("DataFim")
+                        .IsRequired()
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("DataInicio")
                         .HasColumnType("datetime2");
 
                     b.Property<long>("ModuloId")
@@ -156,13 +160,6 @@ namespace Ucode.Api.Migrations
 
                     b.Property<long>("CursoId")
                         .HasColumnType("bigint");
-
-                    b.Property<DateTime?>("DataFim")
-                        .IsRequired()
-                        .HasColumnType("datetime2");
-
-                    b.Property<DateTime>("DataInicio")
-                        .HasColumnType("datetime2");
 
                     b.Property<string>("Nome")
                         .IsRequired()

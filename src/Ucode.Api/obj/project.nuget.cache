@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u6IHLmRGYGc=",
+  "dgSpecHash": "O0ZyvwHfeKo=",
   "success": true,
-  "projectFilePath": "C:\\UcodeAluno\\src\\ucode.api\\Ucode.Api.csproj",
+  "projectFilePath": "C:\\UcodeAluno\\src\\Ucode.Api\\Ucode.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tiago.nogueira\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\tiago.nogueira\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

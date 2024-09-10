@@ -53,8 +53,6 @@ namespace Ucode.Api.Migrations
                     Id = table.Column<long>(type: "bigint", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Nome = table.Column<string>(type: "varchar(200)", maxLength: 200, nullable: false),
-                    DataInicio = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    DataFim = table.Column<DateTime>(type: "datetime2", nullable: false),
                     Resumo = table.Column<string>(type: "varchar(1000)", maxLength: 1000, nullable: false),
                     CursoId = table.Column<long>(type: "bigint", nullable: false),
                     UserId = table.Column<string>(type: "varchar(255)", maxLength: 255, nullable: false)
@@ -76,7 +74,8 @@ namespace Ucode.Api.Migrations
                 {
                     Id = table.Column<long>(type: "bigint", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    Data = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    DataInicio = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    DataFim = table.Column<DateTime>(type: "datetime2", nullable: false),
                     Resumo = table.Column<string>(type: "nvarchar(500)", maxLength: 500, nullable: false),
                     AlunoId = table.Column<long>(type: "bigint", nullable: false),
                     CursoId = table.Column<long>(type: "bigint", nullable: false),

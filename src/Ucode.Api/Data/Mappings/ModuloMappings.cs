@@ -18,13 +18,7 @@ namespace Ucode.Api.Data.Mappings
             builder.Property(m => m.Nome)
                 .IsRequired()
                 .HasMaxLength(200)
-                .HasColumnType("varchar(200)");
-
-            builder.Property(m => m.DataInicio)
-                .IsRequired();             
-
-            builder.Property(m => m.DataFim)
-                 .IsRequired();              
+                .HasColumnType("varchar(200)");           
 
             builder.Property(m => m.Resumo)
                 .HasMaxLength(1000)

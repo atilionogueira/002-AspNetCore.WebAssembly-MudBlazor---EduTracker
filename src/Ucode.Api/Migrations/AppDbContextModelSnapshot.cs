@@ -83,7 +83,11 @@ namespace Ucode.Api.Migrations
                     b.Property<long>("CursoId")
                         .HasColumnType("bigint");
 
-                    b.Property<DateTime>("Data")
+                    b.Property<DateTime?>("DataFim")
+                        .IsRequired()
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("DataInicio")
                         .HasColumnType("datetime2");
 
                     b.Property<long>("ModuloId")
@@ -153,13 +157,6 @@ namespace Ucode.Api.Migrations
 
                     b.Property<long>("CursoId")
                         .HasColumnType("bigint");
-
-                    b.Property<DateTime?>("DataFim")
-                        .IsRequired()
-                        .HasColumnType("datetime2");
-
-                    b.Property<DateTime>("DataInicio")
-                        .HasColumnType("datetime2");
 
                     b.Property<string>("Nome")
                         .IsRequired()

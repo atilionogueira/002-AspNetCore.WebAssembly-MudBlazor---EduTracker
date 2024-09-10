@@ -123,6 +123,7 @@ C:\UcodeAluno\src\ucode.api\obj\Debug\net8.0\Ucode.Api.AssemblyInfo.cs
 C:\UcodeAluno\src\ucode.api\obj\Debug\net8.0\Ucode.Api.csproj.CoreCompileInputs.cache
 C:\UcodeAluno\src\ucode.api\obj\Debug\net8.0\Ucode.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\UcodeAluno\src\ucode.api\obj\Debug\net8.0\Ucode.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\UcodeAluno\src\ucode.api\obj\Debug\net8.0\Ucode.Api.sourcelink.json
 C:\UcodeAluno\src\ucode.api\obj\Debug\net8.0\staticwebassets.build.json
 C:\UcodeAluno\src\ucode.api\obj\Debug\net8.0\staticwebassets.development.json
 C:\UcodeAluno\src\ucode.api\obj\Debug\net8.0\staticwebassets\msbuild.Ucode.Api.Microsoft.AspNetCore.StaticWebAssets.props

@@ -5,6 +5,7 @@ C:\UcodeAluno\src\Ucode.Core\obj\Debug\net8.0\Ucode.Core.GeneratedMSBuildEditorC
 C:\UcodeAluno\src\Ucode.Core\obj\Debug\net8.0\Ucode.Core.AssemblyInfoInputs.cache
 C:\UcodeAluno\src\Ucode.Core\obj\Debug\net8.0\Ucode.Core.AssemblyInfo.cs
 C:\UcodeAluno\src\Ucode.Core\obj\Debug\net8.0\Ucode.Core.csproj.CoreCompileInputs.cache
+C:\UcodeAluno\src\Ucode.Core\obj\Debug\net8.0\Ucode.Core.sourcelink.json
 C:\UcodeAluno\src\Ucode.Core\obj\Debug\net8.0\Ucode.Core.dll
 C:\UcodeAluno\src\Ucode.Core\obj\Debug\net8.0\refint\Ucode.Core.dll
 C:\UcodeAluno\src\Ucode.Core\obj\Debug\net8.0\Ucode.Core.pdb
