@@ -43,7 +43,7 @@ namespace Ucode.Api.Handlers
 
             return curso is null
                 ? new Response<Curso?>(null, 404, message: "Curso nao econtrado")
-                : new Response<Curso?>(curso,message:"Aluno encontrado");
+                : new Response<Curso?>(curso,message:"Curso encontrado");
 
         }
         public async Task<Response<Curso?>> CreateAsync(CreateCursoRequest request)

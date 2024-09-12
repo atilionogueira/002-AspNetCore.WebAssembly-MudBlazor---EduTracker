@@ -1,4 +1,5 @@
-﻿using Ucode.Api.Common.Api;
+﻿using System.Security.Claims;
+using Ucode.Api.Common.Api;
 using Ucode.Core.Handlers;
 using Ucode.Core.Models;
 using Ucode.Core.Requests.Alunos;
@@ -17,12 +18,13 @@ namespace Ucode.Api.Endpoints.Alunos
               .Produces<Response<Aluno?>>();
 
         private static async Task<IResult> HandleAsync(
+            ClaimsPrincipal user,
             IAlunoHandler handler,           
             long id)
         {
             var request = new DeleteAlunoRequest
             {
-                UserId = "test@balta.io",
+                UserId = user.Identity?.Name ?? string.Empty,
                 Id = id
             };
 
@@ -31,7 +33,5 @@ namespace Ucode.Api.Endpoints.Alunos
                 ? TypedResults.Ok(result)
                 : TypedResults.BadRequest(result);
         }
-
-
     }
 }

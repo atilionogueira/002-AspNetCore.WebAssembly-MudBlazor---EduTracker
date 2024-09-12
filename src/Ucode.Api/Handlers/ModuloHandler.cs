@@ -10,7 +10,7 @@ namespace Ucode.Api.Handlers
     public class ModuloHandler(AppDbContext context) : IModuloHandler
 
     {
-        public async Task<PagedResponse<List<Modulo>>> GetAllAsync(GetAllModuloRequest request)
+        public async Task<PagedResponse<List<Modulo>?>> GetAllAsync(GetAllModuloRequest request)
         {
             try
             {
@@ -28,11 +28,11 @@ namespace Ucode.Api.Handlers
 
                 var count = await query.CountAsync();
 
-                return new PagedResponse<List<Modulo>>(modulo, count, request.PageNumber, request.PageSize);
+                return new PagedResponse<List<Modulo>?>(modulo, count, request.PageNumber, request.PageSize);
             }
             catch
             {
-                return new PagedResponse<List<Modulo>>(null, 500, "Não foi possível recuperar o modulo");
+                return new PagedResponse<List<Modulo>?>(null, 500, "Não foi possível recuperar o modulo");
             }
         }
 
@@ -72,7 +72,7 @@ namespace Ucode.Api.Handlers
                 await context.Modulos.AddAsync(modulo);
                 await context.SaveChangesAsync();
 
-                return new Response<Modulo?>(modulo, 201, "Aluno criado com sucesso");
+                return new Response<Modulo?>(modulo, 201, "Modulo criado com sucesso");
 
             }
             catch 
@@ -81,7 +81,7 @@ namespace Ucode.Api.Handlers
             }
         }              
 
-        public async Task<Response<Modulo?>> UpdatteAsync(UpdateModuloRequest request)
+        public async Task<Response<Modulo?>> UpdateAsync(UpdateModuloRequest request)
         {
             try
             {

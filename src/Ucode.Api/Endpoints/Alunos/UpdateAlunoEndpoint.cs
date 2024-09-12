@@ -1,4 +1,5 @@
-﻿using Ucode.Api.Common.Api;
+﻿using System.Security.Claims;
+using Ucode.Api.Common.Api;
 using Ucode.Core.Handlers;
 using Ucode.Core.Models;
 using Ucode.Core.Requests.Alunos;
@@ -17,11 +18,12 @@ namespace Ucode.Api.Endpoints.Alunos
               .Produces<Response<Aluno?>>();
 
         private static async Task<IResult> HandleAsync(
+            ClaimsPrincipal user,
             IAlunoHandler handler,
             UpdateAlunoRequest request,
             long id) 
         {
-            request.UserId = "test@balta.io";
+            request.UserId = user.Identity?.Name ?? string.Empty;
             request.Id = id;
 
             var result = await handler.UpdateAsync(request);

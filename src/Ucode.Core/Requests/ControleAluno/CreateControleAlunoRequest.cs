@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Ucode.Core.Requests.ControleAluno
 {
-    public class CreateControleAlunoRequest
+    public class CreateControleAlunoRequest : Request
     {
         [Required(ErrorMessage = "Data inválida")]
         public DateTime DataInicio { get; set; } = DateTime.Now;

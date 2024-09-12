@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Ucode.Core.Requests.ControleAluno
 {
-    public class UpdateControleAlunoRequest
+    public class UpdateControleAlunoRequest : Request
     {
         public long Id { get; set; }
 

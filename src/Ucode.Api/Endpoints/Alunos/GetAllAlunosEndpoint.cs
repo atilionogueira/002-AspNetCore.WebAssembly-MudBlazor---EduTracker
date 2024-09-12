@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 using Ucode.Api.Common.Api;
 using Ucode.Core;
 using Ucode.Core.Handlers;
@@ -19,6 +20,7 @@ namespace Ucode.Api.Endpoints.Alunos
               .Produces<PagedResponse<List<Aluno>?>>();
 
         private static async Task<IResult> HandleAsync(
+            ClaimsPrincipal user,
             IAlunoHandler handler,
             [FromQuery]int pageNumber = Configuration.DefaultPageNumber,
             [FromQuery]int pageSizer = Configuration.DefaultPageSize)
@@ -26,7 +28,7 @@ namespace Ucode.Api.Endpoints.Alunos
         {
             var request = new GetAllAlunoRequest
             {
-                UserId = "test@balta.io",
+                UserId = user.Identity?.Name ?? string.Empty,
                 PageNumber = pageNumber,
                 PageSize = pageSizer
             };

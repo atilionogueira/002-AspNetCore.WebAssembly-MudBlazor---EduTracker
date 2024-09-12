@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\UcodeAluno\\src\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|c:\\ucodealuno\\src\\ucode.core\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|solutionrelative:ucode.core\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|c:\\ucodealuno\\src\\ucode.core\\models\\modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|solutionrelative:ucode.core\\models\\modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|c:\\ucodealuno\\src\\ucode.core\\models\\controlealuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|solutionrelative:ucode.core\\models\\controlealuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,54 +9,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ControleAluno.cs",
-              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Core\\Models\\ControleAluno.cs",
-              "RelativeDocumentMoniker": "Ucode.Core\\Models\\ControleAluno.cs",
-              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Core\\Models\\ControleAluno.cs",
-              "RelativeToolTip": "Ucode.Core\\Models\\ControleAluno.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T00:57:39.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Modulo.cs",
-              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Core\\Models\\Modulo.cs",
-              "RelativeDocumentMoniker": "Ucode.Core\\Models\\Modulo.cs",
-              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Core\\Models\\Modulo.cs",
-              "RelativeToolTip": "Ucode.Core\\Models\\Modulo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T00:57:29.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Curso.cs",
-              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Core\\Models\\Curso.cs",
-              "RelativeDocumentMoniker": "Ucode.Core\\Models\\Curso.cs",
-              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Core\\Models\\Curso.cs",
-              "RelativeToolTip": "Ucode.Core\\Models\\Curso.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T00:57:10.757Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
             }
           ]
         }
