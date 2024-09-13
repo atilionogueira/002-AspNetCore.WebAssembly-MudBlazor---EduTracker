@@ -5,7 +5,7 @@ using Ucode.Api.Endpoints.Cursos;
 using Ucode.Api.Endpoints.Identity;
 using Ucode.Api.Endpoints.Modulos;
 using Ucode.Api.Models;
-using Ucode.Core.Requests.ControleAluno;
+
 
 namespace Ucode.Api.Endpoints
 {
@@ -15,6 +15,10 @@ namespace Ucode.Api.Endpoints
         {
             var endpoints = app
                 .MapGroup("");
+              
+            endpoints.MapGroup("/")
+                .WithTags("Health Check")
+                .MapGet("/", () => new { message = "OK" });
 
             endpoints.MapGroup("v1/alunos")
                 .WithTags("Alunos")
@@ -62,7 +66,6 @@ namespace Ucode.Api.Endpoints
            .MapEndpoint<GetRolesEndpoint>();
 
         }
-
         private static IEndpointRouteBuilder MapEndpoint<TEndpoint>(this IEndpointRouteBuilder app)
             where TEndpoint : IEndpoint
         {
