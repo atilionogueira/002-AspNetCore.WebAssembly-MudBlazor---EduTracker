@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\kjuteq19si.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\UcodeAluno\\src\\ucode.web\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\UcodeAluno\\src\\ucode.web\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\UcodeAluno\\src\\ucode.web\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\UcodeAluno\\src\\ucode.web\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\UcodeAluno\\src\\ucode.web\\wwwroot\\imgs\\4uCode.png",
+      "PackagePath": "staticwebassets\\imgs\\4uCode.png"
+    },
+    {
+      "Id": "C:\\UcodeAluno\\src\\ucode.web\\wwwroot\\imgs\\Ucode.webp",
+      "PackagePath": "staticwebassets\\imgs\\Ucode.webp"
+    },
+    {
+      "Id": "C:\\UcodeAluno\\src\\ucode.web\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\UcodeAluno\\src\\ucode.web\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "C:\\UcodeAluno\\src\\ucode.web\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Ucode.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Ucode.Web.props",
+      "PackagePath": "build\\Ucode.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Ucode.Web.props",
+      "PackagePath": "buildMultiTargeting\\Ucode.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Ucode.Web.props",
+      "PackagePath": "buildTransitive\\Ucode.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

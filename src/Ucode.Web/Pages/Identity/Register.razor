@@ -1,0 +1,40 @@
+﻿@page "/comecar"
+@layout HeadLessLayout
+
+<PageTitle>Ucode - Login</PageTitle>
+<MudGrid Justify="Justify.Center">
+    <MudItem xs="12" sm="12" md="8" lg="6" xl="6" xxl="6">
+        <MudPaper Class="mud-width-full pa-8">
+            <div class="d-flex justify-center pb-1 pt-1">
+                <img src="imgs/Ucode.webp"
+                     width="200" />
+            </div>
+            <div class="d-flex justify-center">
+                <h4>Ucode - Controle de Modulo de Alunos</h4> <!-- Texto visível na tela -->
+            </div>
+            <MudForm @ref="_mudForm">
+                <MudTextField T="string"
+                              Label="E-mail"
+                              InputType="InputType.Email"
+                              Required="true"
+                              RequiredError="Informe o E-mail"
+                              Validation="@(new EmailAddressAttribute{ErrorMessage = "E-mail inválido"})" />
+                <MudTextField T="String"
+                              Label="Senha"
+                              InputType="InputType.Password"
+                              Required="true"
+                              RequiredError="Senha inválida" />
+            </MudForm>
+            <div class="d-flex mt-4">
+                <MudButton Variant="Variant.Filled" Color="Color.Primary">Criar Login</MudButton>
+                <MudSpacer />
+                <MudButton Variant="Variant.Filled" Color="Color.Primary" Href="/login">Já tenho login</MudButton>
+            </div>
+        </MudPaper>
+    </MudItem>
+</MudGrid>
+
+@code
+{
+    MudForm? _mudForm;
+}
