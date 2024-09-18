@@ -51,6 +51,7 @@ namespace Ucode.Api.Common.Api
 
         public static void AddCrossOrigin(this WebApplicationBuilder builder) 
         {
+            // Configura politica de permissão e restrição do api
             builder.Services.AddCors(
            options => options.AddPolicy(
                ApiConfiguration.CorsPolicyName,
@@ -67,7 +68,8 @@ namespace Ucode.Api.Common.Api
         }
         public static void AddSerives(this WebApplicationBuilder builder) 
         {
-            builder.Services.AddTransient<IAlunoHandler, AlunoHandler>();
+            // Injeção de Dependência
+            builder.Services.AddTransient<IAlunoHandler, AlunoHandler>(); 
             builder.Services.AddTransient<ICursoHandler, CursoHandler>();
             builder.Services.AddTransient<IModuloHandler, ModuloHandler>();
             builder.Services.AddTransient<IControleAlunoHandler, ControleAlunoHandler>();
