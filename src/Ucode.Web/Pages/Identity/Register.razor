@@ -1,5 +1,6 @@
 ﻿@page "/comecar"
 @layout HeadLessLayout
+@inherits RegisterPage
 
 <PageTitle>Ucode - Login</PageTitle>
 <MudGrid Justify="Justify.Center">
@@ -12,29 +13,38 @@
             <div class="d-flex justify-center">
                 <h4>Ucode - Controle de Modulo de Alunos</h4> <!-- Texto visível na tela -->
             </div>
-            <MudForm @ref="_mudForm">
+            <EditForm Model ="@InputModel" OnValidSubmit="OnValidSubmitAsync">
+                <DataAnnotationsValidator />
+
                 <MudTextField T="string"
                               Label="E-mail"
+                              HelperText="Campo Obrigatório"
                               InputType="InputType.Email"
-                              Required="true"
-                              RequiredError="Informe o E-mail"
-                              Validation="@(new EmailAddressAttribute{ErrorMessage = "E-mail inválido"})" />
-                <MudTextField T="String"
+                              For="@(() => InputModel.Email)"
+                              @bind-Value="InputModel.Email"  />
+
+                <MudTextField T="string"
                               Label="Senha"
+                              HelperText="Campo Obrigatório"
                               InputType="InputType.Password"
-                              Required="true"
-                              RequiredError="Senha inválida" />
-            </MudForm>
-            <div class="d-flex mt-4">
-                <MudButton Variant="Variant.Filled" Color="Color.Primary">Criar Login</MudButton>
-                <MudSpacer />
-                <MudButton Variant="Variant.Filled" Color="Color.Primary" Href="/login">Já tenho login</MudButton>
-            </div>
+                              For="@(() => InputModel.Password)"                      
+                              @bind-Value="InputModel.Password" />
+
+                <div class="d-flex mt-4">
+                   @if(IsBusy)
+                    {
+                        <MudProgressCircular Color="Color.Info" Indeterminate="true" />
+                    }
+                    else
+                   {
+                        <MudButton ButtonType="ButtonType.Submit" Variant="Variant.Filled" Color="Color.Primary">Criar Login</MudButton>
+                        <MudSpacer />
+                        <MudButton Variant="Variant.Filled" Color="Color.Primary" Href="/login">Já tenho login</MudButton>
+                   }
+                </div>
+            </EditForm>
+           
         </MudPaper>
     </MudItem>
 </MudGrid>
 
-@code
-{
-    MudForm? _mudForm;
-}

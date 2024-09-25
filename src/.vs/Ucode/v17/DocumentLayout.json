@@ -1,25 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\UcodeAluno\\src\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{FFE05E08-0B42-4A5F-A291-7120D18FE0DD}|Ucode.Web\\Ucode.Web.csproj|c:\\ucodealuno\\src\\ucode.web\\layouts\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FFE05E08-0B42-4A5F-A291-7120D18FE0DD}|Ucode.Web\\Ucode.Web.csproj|solutionrelative:ucode.web\\layouts\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFE05E08-0B42-4A5F-A291-7120D18FE0DD}|Ucode.Web\\Ucode.Web.csproj|c:\\ucodealuno\\src\\ucode.web\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFE05E08-0B42-4A5F-A291-7120D18FE0DD}|Ucode.Web\\Ucode.Web.csproj|solutionrelative:ucode.web\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 132,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
@@ -30,33 +25,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Web\\Configuration.cs",
-              "RelativeDocumentMoniker": "Ucode.Web\\Configuration.cs",
-              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Web\\Configuration.cs",
-              "RelativeToolTip": "Ucode.Web\\Configuration.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAwCQAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T00:53:01.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Web\\Layouts\\MainLayout.razor",
-              "RelativeDocumentMoniker": "Ucode.Web\\Layouts\\MainLayout.razor",
-              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Web\\Layouts\\MainLayout.razor",
-              "RelativeToolTip": "Ucode.Web\\Layouts\\MainLayout.razor",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T00:47:04.167Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }

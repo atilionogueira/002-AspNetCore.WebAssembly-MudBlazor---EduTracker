@@ -58,7 +58,7 @@ namespace Ucode.Api.Endpoints
 
             endpoints.MapGroup("v1/identity")
             .WithTags("Identity")
-            .MapIdentityApi<User>();
+            .MapIdentityApi<User>(); // E para utilizar todo o padrão do Identity
 
             endpoints.MapGroup("v1/identity")
            .WithTags("Identity")

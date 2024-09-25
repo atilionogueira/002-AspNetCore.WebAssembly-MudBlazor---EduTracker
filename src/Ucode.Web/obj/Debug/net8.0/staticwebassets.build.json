@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "D/vWqurb3TjguJ+qa/g74bnS7kNG8WwAnCMLm8PBuw8=",
+  "Hash": "4eEeJ7o71pxVA2uvgIZOSinIRlHwHY8GZwNAnPGyWus=",
   "Source": "Ucode.Web",
   "BasePath": "/",
   "Mode": "Root",
@@ -52,7 +52,7 @@
       "AssetTraitValue": "boot",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tiago.nogueira\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\8.0.7\\build\\net8.0\\blazor.webassembly.js"
+      "OriginalItemSpec": "C:\\Users\\tiago.nogueira\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\8.0.5\\build\\net8.0\\blazor.webassembly.js"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
@@ -71,7 +71,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -90,15 +90,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.7.37dkch2d2y.js",
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.93i67mqfmb.js",
       "SourceId": "Ucode.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.7.37dkch2d2y.js",
+      "RelativePath": "_framework/dotnet.native.8.0.8.93i67mqfmb.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.7.urcsr75yt5.js",
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.80cvijctdx.js",
       "SourceId": "Ucode.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.7.urcsr75yt5.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.8.80cvijctdx.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -166,7 +166,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
@@ -185,7 +185,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -204,7 +204,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -243,6 +243,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\webcil\\Microsoft.AspNetCore.Authorization.wasm"
+    },
+    {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.wasm",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\webcil\\Microsoft.AspNetCore.Components.Authorization.wasm"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.wasm",
@@ -300,6 +319,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\webcil\\Microsoft.AspNetCore.Components.Web.wasm"
+    },
+    {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.wasm",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.Authentication.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\webcil\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.wasm"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.wasm",
@@ -492,6 +530,44 @@
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\webcil\\Microsoft.Extensions.DependencyInjection.wasm"
     },
     {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Diagnostics.Abstractions.wasm",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Diagnostics.Abstractions.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\webcil\\Microsoft.Extensions.Diagnostics.Abstractions.wasm"
+    },
+    {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Diagnostics.wasm",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Diagnostics.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\webcil\\Microsoft.Extensions.Diagnostics.wasm"
+    },
+    {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Abstractions.wasm",
       "SourceId": "Ucode.Web",
       "SourceType": "Computed",
@@ -547,6 +623,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\webcil\\Microsoft.Extensions.FileSystemGlobbing.wasm"
+    },
+    {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Http.wasm",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Http.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\webcil\\Microsoft.Extensions.Http.wasm"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.Abstractions.wasm",
@@ -623,6 +718,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\webcil\\Microsoft.Extensions.Logging.wasm"
+    },
+    {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.ConfigurationExtensions.wasm",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Options.ConfigurationExtensions.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\webcil\\Microsoft.Extensions.Options.ConfigurationExtensions.wasm"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.wasm",
@@ -3893,6 +4007,44 @@
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\webcil\\System.Xml.XPath.XDocument.wasm"
     },
     {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Ucode.Core.pdb",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Ucode.Core.pdb",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "symbol",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\Ucode.Core\\bin\\Debug\\net8.0\\Ucode.Core.pdb"
+    },
+    {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Ucode.Core.wasm",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Ucode.Core.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\webcil\\Ucode.Core.wasm"
+    },
+    {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Ucode.Web.pdb",
       "SourceId": "Ucode.Web",
       "SourceType": "Computed",
@@ -4178,6 +4330,25 @@
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Memory.wasm"
     },
     {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\24ijz52qts.gz",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Ucode.Core.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Ucode.Core.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Ucode.Core.wasm"
+    },
+    {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\2ew1hpkhc6.gz",
       "SourceId": "Ucode.Web",
       "SourceType": "Computed",
@@ -4195,6 +4366,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Physical.wasm"
+    },
+    {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\2f7n5iuu5i.gz",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\2jeuqu6on5.gz",
@@ -4235,23 +4425,23 @@
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm"
     },
     {
-      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\37dkch2d2y.gz",
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\3ii2ld2v2k.gz",
       "SourceId": "Ucode.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.7.37dkch2d2y.js.gz",
+      "RelativePath": "_framework/dotnet.js.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.7.37dkch2d2y.js",
+      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.7.37dkch2d2y.js"
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\3kpffaqygg.gz",
@@ -4292,25 +4482,6 @@
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Globalization.Extensions.wasm"
     },
     {
-      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\3rrtxwix54.gz",
-      "SourceId": "Ucode.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
-    },
-    {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\3yjgmoo8m9.gz",
       "SourceId": "Ucode.Web",
       "SourceType": "Computed",
@@ -4347,25 +4518,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.wasm"
-    },
-    {
-      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\46wj3f8iim.gz",
-      "SourceId": "Ucode.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\48al49djwh.gz",
@@ -4442,6 +4594,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Web.wasm"
+    },
+    {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\4elffsppm6.gz",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Diagnostics.Abstractions.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Diagnostics.Abstractions.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Diagnostics.Abstractions.wasm"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\4epk9jbrnf.gz",
@@ -4539,6 +4710,25 @@
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Private.CoreLib.wasm"
     },
     {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\5hb9robyo3.gz",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
+    },
+    {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\60ee0dg65l.gz",
       "SourceId": "Ucode.Web",
       "SourceType": "Computed",
@@ -4613,6 +4803,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.wasm"
+    },
+    {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\6mv0u5f1r0.gz",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.Authentication.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.Authentication.wasm"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\6qil19tx8m.gz",
@@ -4824,6 +5033,44 @@
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Collections.Concurrent.wasm"
     },
     {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\7wi9b4me70.gz",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/blazor.webassembly.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\80cvijctdx.gz",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.8.80cvijctdx.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.80cvijctdx.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.80cvijctdx.js"
+    },
+    {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\81ra40q2u7.gz",
       "SourceId": "Ucode.Web",
       "SourceType": "Computed",
@@ -4995,6 +5242,25 @@
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.wasm"
     },
     {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\8n6z5wxofv.gz",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
+    },
+    {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\8owwnuusf2.gz",
       "SourceId": "Ucode.Web",
       "SourceType": "Computed",
@@ -5031,6 +5297,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.WebClient.wasm"
+    },
+    {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\93i67mqfmb.gz",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.8.93i67mqfmb.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.93i67mqfmb.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.93i67mqfmb.js"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\96wcetu0jj.gz",
@@ -5527,25 +5812,6 @@
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.CompilerServices.VisualC.wasm"
     },
     {
-      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\f23nu5hkfg.gz",
-      "SourceId": "Ucode.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
-    },
-    {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\fdolf9fgj3.gz",
       "SourceId": "Ucode.Web",
       "SourceType": "Computed",
@@ -5660,25 +5926,6 @@
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\WindowsBase.wasm"
     },
     {
-      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\fya3d8ovfm.gz",
-      "SourceId": "Ucode.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
-    },
-    {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\fz3xazsiqy.gz",
       "SourceId": "Ucode.Web",
       "SourceType": "Computed",
@@ -5734,6 +5981,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Tasks.Parallel.wasm"
+    },
+    {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\gvk2cl0cft.gz",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.wasm"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\gzu77prt3v.gz",
@@ -6021,25 +6287,6 @@
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.XmlDocument.wasm"
     },
     {
-      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\ka3w8hadk3.gz",
-      "SourceId": "Ucode.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
-    },
-    {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\kg9itmuhye.gz",
       "SourceId": "Ucode.Web",
       "SourceType": "Computed",
@@ -6076,25 +6323,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.Encoding.CodePages.wasm"
-    },
-    {
-      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\kjuteq19si.gz",
-      "SourceId": "Ucode.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/blazor.webassembly.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\kq4tt225m6.gz",
@@ -6228,6 +6456,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Emit.wasm"
+    },
+    {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\ljaw8dc1gx.gz",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Ucode.Core.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Ucode.Core.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Ucode.Core.pdb"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\lms05azcjq.gz",
@@ -6534,6 +6781,25 @@
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Metadata.wasm"
     },
     {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\oejb9222hs.gz",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
+    },
+    {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\ofsyop74e8.gz",
       "SourceId": "Ucode.Web",
       "SourceType": "Computed",
@@ -6553,23 +6819,23 @@
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.wasm"
     },
     {
-      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\ovzsgv6a1u.gz",
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\ovcfewwg0h.gz",
       "SourceId": "Ucode.Web",
       "SourceType": "Computed",
       "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "RelativePath": "_framework/Microsoft.Extensions.Http.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Http.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Http.wasm"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\p481zqlp0q.gz",
@@ -6589,6 +6855,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Overlapped.wasm"
+    },
+    {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\pacb6ezw3w.gz",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Diagnostics.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Diagnostics.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Diagnostics.wasm"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\pse07d29xn.gz",
@@ -7085,6 +7370,25 @@
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ValueTuple.wasm"
     },
     {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\tcahtmlyz5.gz",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
+    },
+    {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\te4wc5cau3.gz",
       "SourceId": "Ucode.Web",
       "SourceType": "Computed",
@@ -7256,25 +7560,6 @@
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.Json.wasm"
     },
     {
-      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\urcsr75yt5.gz",
-      "SourceId": "Ucode.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.7.urcsr75yt5.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.7.urcsr75yt5.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.7.urcsr75yt5.js"
-    },
-    {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\uyaik5z101.gz",
       "SourceId": "Ucode.Web",
       "SourceType": "Computed",
@@ -7311,25 +7596,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Numerics.Vectors.wasm"
-    },
-    {
-      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\vzhy5cblum.gz",
-      "SourceId": "Ucode.Web",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\w8yra8h906.gz",
@@ -7501,6 +7767,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\netstandard.wasm"
+    },
+    {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\xaydckuhgp.gz",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Options.ConfigurationExtensions.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.ConfigurationExtensions.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.ConfigurationExtensions.wasm"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\xl8tbhs554.gz",
@@ -7750,6 +8035,25 @@
       "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Intrinsics.wasm"
     },
     {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\zbvva2wxb6.gz",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\UcodeAluno\\src\\ucode.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
+    },
+    {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\zcujob9kyl.gz",
       "SourceId": "Ucode.Web",
       "SourceType": "Computed",
@@ -7959,6 +8263,25 @@
       "OriginalItemSpec": "wwwroot\\service-worker.published.js"
     },
     {
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\wwwroot\\appsettings.json",
+      "SourceId": "Ucode.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "appsettings.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "settings",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\appsettings.json"
+    },
+    {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\wwwroot\\css\\app.css",
       "SourceId": "Ucode.Web",
       "SourceType": "Discovered",
@@ -8128,6 +8451,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\sample-data\\weather.json"
+    },
+    {
+      "Identity": "C:\\Users\\tiago.nogueira\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\8.0.5\\staticwebassets\\AuthenticationService.js",
+      "SourceId": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\tiago.nogueira\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\8.0.5\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "RelativePath": "AuthenticationService.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\tiago.nogueira\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\8.0.5\\staticwebassets\\AuthenticationService.js"
     },
     {
       "Identity": "C:\\Users\\tiago.nogueira\\.nuget\\packages\\mudblazor\\6.19.1\\staticwebassets\\MudBlazor.min.css",

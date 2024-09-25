@@ -5,7 +5,7 @@
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\kjuteq19si.gz",
+      "Id": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\compressed\\7wi9b4me70.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
@@ -15,6 +15,10 @@
     {
       "Id": "C:\\UcodeAluno\\src\\ucode.web\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
       "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\UcodeAluno\\src\\ucode.web\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
     },
     {
       "Id": "C:\\UcodeAluno\\src\\ucode.web\\wwwroot\\css\\app.css",

@@ -5,6 +5,10 @@ namespace Ucode.Web
 {
     public static class Configuration
     {
+        public const string HttpClientName = "ucode";
+        public static string BackendUrl { get; set; } = "http://localhost:5270";
+     //   public static string FrontendUrl { get; set; } = "http://localhost:5249";
+
         public static MudTheme Theme = new()
         {
             Typography = new Typography
@@ -17,11 +21,11 @@ namespace Ucode.Web
 
             Palette = new PaletteLight
             {
-                Primary = new MudColor("594AE2"),
+                Primary = new MudColor("1EFA2D"), //594AE2
                 PrimaryContrastText = new MudColor("#FFFFFF"),
                 Secondary = Colors.LightGreen.Darken3,
                 Background = Colors.Grey.Lighten4,
-                AppbarBackground = new MudColor("594AE2"),
+                AppbarBackground = new MudColor("1EFA2D"),
                 AppbarText = Colors.Shades.Black,
                 TextPrimary = Colors.Shades.Black,
                 DrawerText = Colors.Shades.Black,
@@ -32,7 +36,7 @@ namespace Ucode.Web
                 Primary = Colors.LightGreen.Accent3,
                 Secondary = Colors.LightGreen.Darken3,
                 // Background = Colors.LightGreen.Darken4,
-                AppbarBackground = new MudColor("594AE2"),
+                AppbarBackground = new MudColor("1EFA2D"),
                 AppbarText = Colors.Shades.White,
                 PrimaryContrastText = new MudColor("#FFFFFF")
             }

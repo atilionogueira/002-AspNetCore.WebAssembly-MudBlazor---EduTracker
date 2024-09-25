@@ -4,14 +4,14 @@
     "C:\\UcodeAluno\\src\\ucode.web\\Ucode.Web.csproj": {}
   },
   "projects": {
-    "C:\\UcodeAluno\\src\\ucode.web\\Ucode.Web.csproj": {
+    "C:\\UcodeAluno\\src\\Ucode.Core\\Ucode.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UcodeAluno\\src\\ucode.web\\Ucode.Web.csproj",
-        "projectName": "Ucode.Web",
-        "projectPath": "C:\\UcodeAluno\\src\\ucode.web\\Ucode.Web.csproj",
+        "projectUniqueName": "C:\\UcodeAluno\\src\\Ucode.Core\\Ucode.Core.csproj",
+        "projectName": "Ucode.Core",
+        "projectPath": "C:\\UcodeAluno\\src\\Ucode.Core\\Ucode.Core.csproj",
         "packagesPath": "C:\\Users\\tiago.nogueira\\.nuget\\packages\\",
-        "outputPath": "C:\\UcodeAluno\\src\\ucode.web\\obj\\",
+        "outputPath": "C:\\UcodeAluno\\src\\Ucode.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -48,15 +48,91 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\UcodeAluno\\src\\ucode.web\\Ucode.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\UcodeAluno\\src\\ucode.web\\Ucode.Web.csproj",
+        "projectName": "Ucode.Web",
+        "projectPath": "C:\\UcodeAluno\\src\\ucode.web\\Ucode.Web.csproj",
+        "packagesPath": "C:\\Users\\tiago.nogueira\\.nuget\\packages\\",
+        "outputPath": "C:\\UcodeAluno\\src\\ucode.web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tiago.nogueira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\UcodeAluno\\src\\Ucode.Core\\Ucode.Core.csproj": {
+                "projectPath": "C:\\UcodeAluno\\src\\Ucode.Core\\Ucode.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[8.0.7, )"
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Authentication": {
+              "target": "Package",
+              "version": "[8.0.5, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.7, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
@@ -67,7 +143,7 @@
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.7, )",
+              "version": "[8.0.8, )",
               "autoReferenced": true
             },
             "Mudblazor": {

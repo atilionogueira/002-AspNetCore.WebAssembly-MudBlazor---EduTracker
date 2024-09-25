@@ -21,7 +21,7 @@ namespace Ucode.Api.Endpoints.Identity
                     .FindAll(identity.RoleClaimType)
                     .Select(c => new RoleClaim
                     {
-                        Issuer = c.Issuer,
+                        Issuer = c.Issuer,  // emisssor
                         OriginalIssuer = c.OriginalIssuer,
                         Type = c.Type,
                         Value = c.Value,
