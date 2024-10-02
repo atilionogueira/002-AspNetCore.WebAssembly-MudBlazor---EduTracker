@@ -37,12 +37,12 @@
       "PackagePath": "staticwebassets\\icon-512.png"
     },
     {
-      "Id": "C:\\UcodeAluno\\src\\ucode.web\\wwwroot\\imgs\\4uCode.png",
-      "PackagePath": "staticwebassets\\imgs\\4uCode.png"
-    },
-    {
       "Id": "C:\\UcodeAluno\\src\\ucode.web\\wwwroot\\imgs\\Ucode.webp",
       "PackagePath": "staticwebassets\\imgs\\Ucode.webp"
+    },
+    {
+      "Id": "C:\\UcodeAluno\\src\\ucode.web\\wwwroot\\imgs\\logo.png",
+      "PackagePath": "staticwebassets\\imgs\\logo.png"
     },
     {
       "Id": "C:\\UcodeAluno\\src\\ucode.web\\wwwroot\\index.html",

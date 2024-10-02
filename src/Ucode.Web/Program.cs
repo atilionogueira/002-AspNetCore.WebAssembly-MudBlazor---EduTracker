@@ -32,5 +32,6 @@ builder.Services.AddHttpClient(Configuration.HttpClientName, opt =>
     .AddHttpMessageHandler<CookieHandler>();   // gerencia a request customizado e também os cookies
 
 builder.Services.AddTransient<IAccountHandler, AccountHandler>();
+builder.Services.AddTransient<IAlunoHandler, AlunoHandler>();
 
 await builder.Build().RunAsync();

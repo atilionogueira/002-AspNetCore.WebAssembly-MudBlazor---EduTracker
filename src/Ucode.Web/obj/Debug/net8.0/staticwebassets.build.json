@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4eEeJ7o71pxVA2uvgIZOSinIRlHwHY8GZwNAnPGyWus=",
+  "Hash": "P/lYbqAKKkj6UIA+8EdPOuPTixdAFz8oK41rDGiX6kA=",
   "Source": "Ucode.Web",
   "BasePath": "/",
   "Mode": "Root",
@@ -8358,12 +8358,12 @@
       "OriginalItemSpec": "wwwroot\\icon-512.png"
     },
     {
-      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\wwwroot\\imgs\\4uCode.png",
+      "Identity": "C:\\UcodeAluno\\src\\ucode.web\\wwwroot\\imgs\\logo.png",
       "SourceId": "Ucode.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\UcodeAluno\\src\\ucode.web\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "imgs/4uCode.png",
+      "RelativePath": "imgs/logo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8374,7 +8374,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imgs\\4uCode.png"
+      "OriginalItemSpec": "wwwroot\\imgs\\logo.png"
     },
     {
       "Identity": "C:\\UcodeAluno\\src\\ucode.web\\wwwroot\\imgs\\Ucode.webp",

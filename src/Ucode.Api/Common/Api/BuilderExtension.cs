@@ -48,7 +48,7 @@ namespace Ucode.Api.Common.Api
                 .AddEntityFrameworkStores<AppDbContext>() // Adicionar as tabelas no BD
                 .AddApiEndpoints();
         }
-
+        /*
         public static void AddCrossOrigin(this WebApplicationBuilder builder) 
         {
             // Configura politica de permissão e restrição do api
@@ -64,7 +64,23 @@ namespace Ucode.Api.Common.Api
                    .AllowAnyHeader()
                    .AllowCredentials()
            ));
-
+        }
+        */
+        public static void AddCrossOrigin(this WebApplicationBuilder builder)
+        {
+            // Configura politica de permissão e restrição do api
+            builder.Services.AddCors(
+           options => options.AddPolicy(
+               ApiConfiguration.CorsPolicyName,
+               policy => policy
+                   .WithOrigins([
+                       Configuration.BackendUrl,
+                       Configuration.FrontendUrl
+                   ])
+                   .AllowAnyMethod()
+                   .AllowAnyHeader()
+                   .AllowCredentials()
+           ));
         }
         public static void AddSerives(this WebApplicationBuilder builder) 
         {
