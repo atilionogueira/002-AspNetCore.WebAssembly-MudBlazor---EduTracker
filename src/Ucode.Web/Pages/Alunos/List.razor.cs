@@ -3,7 +3,6 @@ using MudBlazor;
 using Ucode.Core.Handlers;
 using Ucode.Core.Models;
 using Ucode.Core.Requests.Alunos;
-using Ucode.Web.Pages.Identity;
 
 namespace Ucode.Web.Pages.Alunos
 {

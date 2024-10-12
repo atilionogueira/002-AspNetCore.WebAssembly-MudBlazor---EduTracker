@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UcodeAluno\\src\\ucode.api\\Ucode.Api.csproj": {}
+    "C:\\UcodeAluno\\src\\Ucode.Api\\Ucode.Api.csproj": {}
   },
   "projects": {
-    "C:\\UcodeAluno\\src\\ucode.api\\Ucode.Api.csproj": {
+    "C:\\UcodeAluno\\src\\Ucode.Api\\Ucode.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UcodeAluno\\src\\ucode.api\\Ucode.Api.csproj",
+        "projectUniqueName": "C:\\UcodeAluno\\src\\Ucode.Api\\Ucode.Api.csproj",
         "projectName": "Ucode.Api",
-        "projectPath": "C:\\UcodeAluno\\src\\ucode.api\\Ucode.Api.csproj",
+        "projectPath": "C:\\UcodeAluno\\src\\Ucode.Api\\Ucode.Api.csproj",
         "packagesPath": "C:\\Users\\tiago.nogueira\\.nuget\\packages\\",
-        "outputPath": "C:\\UcodeAluno\\src\\ucode.api\\obj\\",
+        "outputPath": "C:\\UcodeAluno\\src\\Ucode.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

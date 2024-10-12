@@ -54,6 +54,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWx1bm9zXExpc3QucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/UcodeAluno/src/Ucode.Web/Pages/Cursos/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3Vyc29zXENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UcodeAluno/src/Ucode.Web/Pages/Cursos/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3Vyc29zXEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UcodeAluno/src/Ucode.Web/Pages/Cursos/List.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3Vyc29zXExpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/UcodeAluno/src/Ucode.Web/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

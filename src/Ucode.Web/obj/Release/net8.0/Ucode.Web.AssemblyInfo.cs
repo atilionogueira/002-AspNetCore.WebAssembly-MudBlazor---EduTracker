@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ucode.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be93ae53ae5ee8a2a6eff7c6364c54d97304d4b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86b1e42e5d0a3bbad4ebb5e2ca28a863181325af")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ucode.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ucode.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

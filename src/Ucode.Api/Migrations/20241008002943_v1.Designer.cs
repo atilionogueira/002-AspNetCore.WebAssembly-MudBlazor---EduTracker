@@ -12,8 +12,8 @@ using Ucode.Api.Data;
 namespace Ucode.Api.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240912120719_v2")]
-    partial class v2
+    [Migration("20241008002943_v1")]
+    partial class v1
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -358,7 +358,7 @@ namespace Ucode.Api.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Cursos", (string)null);
+                    b.ToTable("Curso", (string)null);
                 });
 
             modelBuilder.Entity("Ucode.Core.Models.Modulo", b =>
@@ -391,7 +391,7 @@ namespace Ucode.Api.Migrations
 
                     b.HasIndex("CursoId");
 
-                    b.ToTable("Modulos", (string)null);
+                    b.ToTable("Modulo", (string)null);
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole<long>", b =>

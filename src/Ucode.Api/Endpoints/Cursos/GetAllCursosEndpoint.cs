@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 using Ucode.Api.Common.Api;
 using Ucode.Core;
 using Ucode.Core.Handlers;
@@ -15,18 +16,19 @@ namespace Ucode.Api.Endpoints.Cursos
             .WithName("Curso: Get All")
             .WithSummary("Recuperando todos os curso")
             .WithDescription("Recuperando todos curso")
-            .WithOrder(4)
+            .WithOrder(5)
             .Produces<PagedResponse<List<Curso>?>>();
         private static async Task<IResult> HandleAsync(
+            ClaimsPrincipal user,
             ICursoHandler handler,
             [FromQuery]int pageNumber = Configuration.DefaultPageNumber,
             [FromQuery]int pageSize = Configuration.DefaultPageSize )
         {
             var request = new GetAllCursoRequest
             {
-                UserId = "test@balta.io",
+                UserId = user.Identity?.Name ?? string.Empty,
                 PageNumber = pageNumber,
-                PageSize = pageNumber
+                PageSize = pageSize
             };
 
             var result = await handler.GetAllAsync(request);

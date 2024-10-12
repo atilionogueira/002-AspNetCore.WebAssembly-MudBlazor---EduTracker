@@ -38,5 +38,14 @@
                       For="@(() => InputModel.Estado)" />
 
         <MudButton ButtonType="ButtonType.Submit" Variant="Variant.Filled" Color="Color.Primary"> Salvar </MudButton>
+        <MudButton Variant="Variant.Filled" Color="Color.Primary" OnClick="GoToAlunos"> Sair </MudButton>
+       
     </EditForm>
 </MudPaper>
+
+@code {
+    private void GoToAlunos()
+    {
+        NavigationManager.NavigateTo("/alunos");
+    }
+}

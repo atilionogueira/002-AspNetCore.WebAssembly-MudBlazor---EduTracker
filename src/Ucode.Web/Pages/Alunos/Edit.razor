@@ -1,7 +1,7 @@
 ﻿@page "/alunos/editar/{id}"
 @inherits EditAlunoPage
 
-<MudText Typo="Typo.h3">Editar Aluno</MudText>
+<MudText Typo="Typo.h3">Editar</MudText>
 
 @if (IsBusy)
 {
@@ -14,9 +14,8 @@
     </MudPaper>
 }
 else
-{
-    <MudText Typo="Typo.h3">Novo Aluno</MudText>
-    <MudPaper Class="pa-8 mt=4">
+{   
+    <MudPaper Class="pa-8 mt-4">
         <EditForm Model="@InputModel" OnValidSubmit="OnValidSubmitAsync">
 
             <DataAnnotationsValidator />
@@ -52,6 +51,14 @@ else
                           For="@(() => InputModel.Estado)" />
 
             <MudButton ButtonType="ButtonType.Submit" Variant="Variant.Filled" Color="Color.Primary"> Salvar </MudButton>
+            <MudButton Variant="Variant.Filled" Color="Color.Primary" OnClick="GoToAlunos"> Sair </MudButton>
         </EditForm>
     </MudPaper>
+}
+
+@code {
+    private void GoToAlunos()
+    {
+        NavigationManager.NavigateTo("/alunos");
+    }
 }

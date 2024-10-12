@@ -7,9 +7,7 @@ namespace Ucode.Core.Models
         public DateTime DataInicio { get; set; } = DateTime.Now;
         public DateTime? DataFim { get; set; }
         public string Resumo { get; set; } = string.Empty;
-
-        public long AlunoId { get; set; }
-        public Aluno Aluno { get; set; } = null!;
+       
         public long CursoId { get; set; }
         public Curso Curso { get; set; } = null!;
         public long ModuloId { get; set; }

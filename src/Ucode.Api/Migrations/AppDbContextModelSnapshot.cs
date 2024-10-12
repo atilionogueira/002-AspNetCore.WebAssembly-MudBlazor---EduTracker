@@ -355,7 +355,7 @@ namespace Ucode.Api.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Cursos", (string)null);
+                    b.ToTable("Curso", (string)null);
                 });
 
             modelBuilder.Entity("Ucode.Core.Models.Modulo", b =>
@@ -388,7 +388,7 @@ namespace Ucode.Api.Migrations
 
                     b.HasIndex("CursoId");
 
-                    b.ToTable("Modulos", (string)null);
+                    b.ToTable("Modulo", (string)null);
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole<long>", b =>

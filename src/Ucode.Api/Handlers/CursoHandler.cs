@@ -14,25 +14,29 @@ namespace Ucode.Api.Handlers
             try
             {
                 var query = context
-                .Cursos
-                .AsNoTracking()
-                .Where(x => x.UserId == request.UserId)
-                .OrderBy(x => x.Nome);
+                    .Cursos
+                    .AsNoTracking()
+                    .Where(x => x.UserId == request.UserId)
+                    .OrderBy(x => x.Nome);
 
                 var cursos = await query
-                        .Skip((request.PageNumber - 1) * request.PageSize)
-                        .Take(request.PageSize)
-                        .ToListAsync();
+                    .Skip((request.PageNumber - 1) * request.PageSize)
+                    .Take(request.PageSize)
+                    .ToListAsync();
 
                 var count = await query.CountAsync();
 
-            return new PagedResponse<List<Curso>>(cursos, count, request.PageNumber, request.PageSize);
+                return new PagedResponse<List<Curso>>(
+                    cursos,
+                    count,
+                    request.PageNumber,
+                    request.PageSize);
             }
-            catch (Exception)
+            catch
             {
-             return new PagedResponse<List<Curso>>(null, 500, "Não foi possível recuperar o curso");
+                return new PagedResponse<List<Curso>>(null, 500, "Não foi possível consultar as categorias");
             }
-            
+
         }
 
         public async Task<Response<Curso?>> GetByIdAsync(GetCursoByIdRequest request)

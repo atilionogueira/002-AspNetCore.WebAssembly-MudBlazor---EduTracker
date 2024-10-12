@@ -10,7 +10,7 @@ namespace Ucode.Api.Data.Mappings
         public void Configure(EntityTypeBuilder<Curso> builder)
         {
             // Configuração da tabela
-            builder.ToTable("Cursos");
+            builder.ToTable("Curso");
 
             // Configuração da chave primária
             builder.HasKey(c => c.Id);

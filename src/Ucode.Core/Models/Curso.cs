@@ -7,7 +7,7 @@ namespace Ucode.Core.Models
         public long Id { get; set; }
         public string Nome { get; set; } = string.Empty;
         public ECursoCategoria Categoria { get; set; }
-        public string Resumo { get; set; } = string.Empty;
+        public string? Resumo { get; set; }
 
         public string UserId { get; set; } = string.Empty;  
         

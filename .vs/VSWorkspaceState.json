@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src"
+    "\\src",
+    "\\src\\Ucode.Web",
+    "\\src\\Ucode.Web\\Handlers",
+    "\\src\\Ucode.Web\\Pages",
+    "\\src\\Ucode.Web\\Pages\\Alunos",
+    "\\src\\Ucode.Web\\Pages\\Cursos"
   ],
   "SelectedNode": "\\src\\Ucode.sln",
   "PreviewInSolutionExplorer": false

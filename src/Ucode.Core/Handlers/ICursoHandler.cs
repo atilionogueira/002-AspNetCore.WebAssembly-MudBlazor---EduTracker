@@ -1,4 +1,5 @@
 ﻿using Ucode.Core.Models;
+using Ucode.Core.Requests.Alunos;
 using Ucode.Core.Requests.Curso;
 using Ucode.Core.Responses;
 
@@ -10,6 +11,6 @@ namespace Ucode.Core.Handlers
         Task<Response<Curso?>> UpdateAsync(UpdateCursoRequest request);
         Task<Response<Curso?>> DeleteAsync(DeleteCursoRequest request);
         Task<Response<Curso?>> GetByIdAsync(GetCursoByIdRequest request);
-        Task<PagedResponse<List<Curso>>> GetAllAsync(GetAllCursoRequest request);    
+        Task<PagedResponse<List<Curso>>> GetAllAsync(GetAllCursoRequest request);       
     }
 }

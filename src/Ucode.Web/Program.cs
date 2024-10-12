@@ -33,5 +33,7 @@ builder.Services.AddHttpClient(Configuration.HttpClientName, opt =>
 
 builder.Services.AddTransient<IAccountHandler, AccountHandler>();
 builder.Services.AddTransient<IAlunoHandler, AlunoHandler>();
+builder.Services.AddTransient<ICursoHandler, CursoHandler>();
+
 
 await builder.Build().RunAsync();

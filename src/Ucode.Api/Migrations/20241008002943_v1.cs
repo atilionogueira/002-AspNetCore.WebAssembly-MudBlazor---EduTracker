@@ -6,11 +6,46 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Ucode.Api.Migrations
 {
     /// <inheritdoc />
-    public partial class v2 : Migration
+    public partial class v1 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
+            migrationBuilder.CreateTable(
+                name: "Aluno",
+                columns: table => new
+                {
+                    Id = table.Column<long>(type: "bigint", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Nome = table.Column<string>(type: "nvarchar(200)", maxLength: 200, nullable: false),
+                    Contato = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
+                    Email = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
+                    Instagram = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: true),
+                    Cidade = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
+                    Estado = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
+                    UserId = table.Column<string>(type: "varchar(160)", maxLength: 160, nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Aluno", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Curso",
+                columns: table => new
+                {
+                    Id = table.Column<long>(type: "bigint", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Nome = table.Column<string>(type: "varchar(200)", maxLength: 200, nullable: false),
+                    Categoria = table.Column<string>(type: "varchar(50)", maxLength: 50, nullable: false),
+                    Resumo = table.Column<string>(type: "varchar(1000)", maxLength: 1000, nullable: false),
+                    UserId = table.Column<string>(type: "varchar(160)", maxLength: 160, nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Curso", x => x.Id);
+                });
+
             migrationBuilder.CreateTable(
                 name: "IdentityRoleClaim",
                 columns: table => new
@@ -50,6 +85,28 @@ namespace Ucode.Api.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_IdentityUser", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Modulo",
+                columns: table => new
+                {
+                    Id = table.Column<long>(type: "bigint", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Nome = table.Column<string>(type: "varchar(200)", maxLength: 200, nullable: false),
+                    Resumo = table.Column<string>(type: "varchar(1000)", maxLength: 1000, nullable: false),
+                    CursoId = table.Column<long>(type: "bigint", nullable: false),
+                    UserId = table.Column<string>(type: "varchar(255)", maxLength: 255, nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Modulo", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_Modulo_Curso_CursoId",
+                        column: x => x.CursoId,
+                        principalTable: "Curso",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateTable(
@@ -152,6 +209,58 @@ namespace Ucode.Api.Migrations
                         onDelete: ReferentialAction.Cascade);
                 });
 
+            migrationBuilder.CreateTable(
+                name: "ControleAluno",
+                columns: table => new
+                {
+                    Id = table.Column<long>(type: "bigint", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    DataInicio = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    DataFim = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    Resumo = table.Column<string>(type: "nvarchar(500)", maxLength: 500, nullable: false),
+                    AlunoId = table.Column<long>(type: "bigint", nullable: false),
+                    CursoId = table.Column<long>(type: "bigint", nullable: false),
+                    ModuloId = table.Column<long>(type: "bigint", nullable: false),
+                    UserId = table.Column<string>(type: "varchar(160)", maxLength: 160, nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_ControleAluno", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_ControleAluno_Aluno_AlunoId",
+                        column: x => x.AlunoId,
+                        principalTable: "Aluno",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_ControleAluno_Curso_CursoId",
+                        column: x => x.CursoId,
+                        principalTable: "Curso",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Restrict);
+                    table.ForeignKey(
+                        name: "FK_ControleAluno_Modulo_ModuloId",
+                        column: x => x.ModuloId,
+                        principalTable: "Modulo",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.CreateIndex(
+                name: "IX_ControleAluno_AlunoId",
+                table: "ControleAluno",
+                column: "AlunoId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_ControleAluno_CursoId",
+                table: "ControleAluno",
+                column: "CursoId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_ControleAluno_ModuloId",
+                table: "ControleAluno",
+                column: "ModuloId");
+
             migrationBuilder.CreateIndex(
                 name: "IX_IdentityClaim_UserId",
                 table: "IdentityClaim",
@@ -187,11 +296,19 @@ namespace Ucode.Api.Migrations
                 name: "IX_IdentityUserLogin_UserId",
                 table: "IdentityUserLogin",
                 column: "UserId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Modulo_CursoId",
+                table: "Modulo",
+                column: "CursoId");
         }
 
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
+            migrationBuilder.DropTable(
+                name: "ControleAluno");
+
             migrationBuilder.DropTable(
                 name: "IdentityClaim");
 
@@ -211,7 +328,16 @@ namespace Ucode.Api.Migrations
                 name: "IdentityUserToken");
 
             migrationBuilder.DropTable(
+                name: "Aluno");
+
+            migrationBuilder.DropTable(
+                name: "Modulo");
+
+            migrationBuilder.DropTable(
                 name: "IdentityUser");
+
+            migrationBuilder.DropTable(
+                name: "Curso");
         }
     }
 }

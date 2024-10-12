@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\UcodeAluno\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFE05E08-0B42-4A5F-A291-7120D18FE0DD}|Ucode.Web\\Ucode.Web.csproj|c:\\ucodealuno\\src\\ucode.web\\pages\\alunos\\edit.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFE05E08-0B42-4A5F-A291-7120D18FE0DD}|Ucode.Web\\Ucode.Web.csproj|solutionrelative:ucode.web\\pages\\alunos\\edit.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|c:\\ucodealuno\\src\\ucode.core\\models\\controlealuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|solutionrelative:ucode.core\\models\\controlealuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFE05E08-0B42-4A5F-A291-7120D18FE0DD}|Ucode.Web\\Ucode.Web.csproj|c:\\ucodealuno\\src\\ucode.web\\pages\\alunos\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FFE05E08-0B42-4A5F-A291-7120D18FE0DD}|Ucode.Web\\Ucode.Web.csproj|solutionrelative:ucode.web\\pages\\alunos\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|c:\\ucodealuno\\src\\ucode.core\\models\\modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|solutionrelative:ucode.core\\models\\modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFE05E08-0B42-4A5F-A291-7120D18FE0DD}|Ucode.Web\\Ucode.Web.csproj|c:\\ucodealuno\\src\\ucode.web\\layouts\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FFE05E08-0B42-4A5F-A291-7120D18FE0DD}|Ucode.Web\\Ucode.Web.csproj|solutionrelative:ucode.web\\layouts\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFE05E08-0B42-4A5F-A291-7120D18FE0DD}|Ucode.Web\\Ucode.Web.csproj|c:\\ucodealuno\\src\\ucode.web\\layouts\\headlesslayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FFE05E08-0B42-4A5F-A291-7120D18FE0DD}|Ucode.Web\\Ucode.Web.csproj|solutionrelative:ucode.web\\layouts\\headlesslayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFE05E08-0B42-4A5F-A291-7120D18FE0DD}|Ucode.Web\\Ucode.Web.csproj|c:\\ucodealuno\\src\\ucode.web\\pages\\alunos\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FFE05E08-0B42-4A5F-A291-7120D18FE0DD}|Ucode.Web\\Ucode.Web.csproj|solutionrelative:ucode.web\\pages\\alunos\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFE05E08-0B42-4A5F-A291-7120D18FE0DD}|Ucode.Web\\Ucode.Web.csproj|c:\\ucodealuno\\src\\ucode.web\\pages\\alunos\\create.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFE05E08-0B42-4A5F-A291-7120D18FE0DD}|Ucode.Web\\Ucode.Web.csproj|solutionrelative:ucode.web\\pages\\alunos\\create.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|c:\\ucodealuno\\src\\ucode.core\\handlers\\ialunohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|solutionrelative:ucode.core\\handlers\\ialunohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFE05E08-0B42-4A5F-A291-7120D18FE0DD}|Ucode.Web\\Ucode.Web.csproj|c:\\ucodealuno\\src\\ucode.web\\handlers\\alunohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFE05E08-0B42-4A5F-A291-7120D18FE0DD}|Ucode.Web\\Ucode.Web.csproj|solutionrelative:ucode.web\\handlers\\alunohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|c:\\ucodealuno\\src\\ucode.core\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13E30E4-C49A-4FA2-A030-4BB7EC500314}|Ucode.Core\\Ucode.Core.csproj|solutionrelative:ucode.core\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,15 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             },
             {
               "$type": "Bookmark",
@@ -66,110 +42,45 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HeadLessLayout.razor",
-              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Web\\Layouts\\HeadLessLayout.razor",
-              "RelativeDocumentMoniker": "Ucode.Web\\Layouts\\HeadLessLayout.razor",
-              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Web\\Layouts\\HeadLessLayout.razor",
-              "RelativeToolTip": "Ucode.Web\\Layouts\\HeadLessLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T17:52:47.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Web\\Layouts\\MainLayout.razor",
-              "RelativeDocumentMoniker": "Ucode.Web\\Layouts\\MainLayout.razor",
-              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Web\\Layouts\\MainLayout.razor",
-              "RelativeToolTip": "Ucode.Web\\Layouts\\MainLayout.razor",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAwwEkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T17:48:20.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.razor",
-              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Web\\Pages\\Alunos\\Create.razor",
-              "RelativeDocumentMoniker": "Ucode.Web\\Pages\\Alunos\\Create.razor",
-              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Web\\Pages\\Alunos\\Create.razor",
-              "RelativeToolTip": "Ucode.Web\\Pages\\Alunos\\Create.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T17:27:34.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.razor.cs",
-              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Web\\Pages\\Alunos\\Create.razor.cs",
-              "RelativeDocumentMoniker": "Ucode.Web\\Pages\\Alunos\\Create.razor.cs",
-              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Web\\Pages\\Alunos\\Create.razor.cs",
-              "RelativeToolTip": "Ucode.Web\\Pages\\Alunos\\Create.razor.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAswCUAAAAqAAAA",
+              "DocumentIndex": 0,
+              "Title": "ControleAluno.cs",
+              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Core\\Models\\ControleAluno.cs",
+              "RelativeDocumentMoniker": "Ucode.Core\\Models\\ControleAluno.cs",
+              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Core\\Models\\ControleAluno.cs",
+              "RelativeToolTip": "Ucode.Core\\Models\\ControleAluno.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T16:53:59.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IAlunoHandler.cs",
-              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Core\\Handlers\\IAlunoHandler.cs",
-              "RelativeDocumentMoniker": "Ucode.Core\\Handlers\\IAlunoHandler.cs",
-              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Core\\Handlers\\IAlunoHandler.cs",
-              "RelativeToolTip": "Ucode.Core\\Handlers\\IAlunoHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T16:53:29.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AlunoHandler.cs",
-              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Web\\Handlers\\AlunoHandler.cs",
-              "RelativeDocumentMoniker": "Ucode.Web\\Handlers\\AlunoHandler.cs",
-              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Web\\Handlers\\AlunoHandler.cs",
-              "RelativeToolTip": "Ucode.Web\\Handlers\\AlunoHandler.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAuwBsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T16:51:43.977Z",
+              "WhenOpened": "2024-10-12T15:49:37.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Edit.razor",
-              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Web\\Pages\\Alunos\\Edit.razor",
-              "RelativeDocumentMoniker": "Ucode.Web\\Pages\\Alunos\\Edit.razor",
-              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Web\\Pages\\Alunos\\Edit.razor",
-              "RelativeToolTip": "Ucode.Web\\Pages\\Alunos\\Edit.razor",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T14:05:47.905Z",
+              "Title": "Modulo.cs",
+              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Core\\Models\\Modulo.cs",
+              "RelativeDocumentMoniker": "Ucode.Core\\Models\\Modulo.cs",
+              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Core\\Models\\Modulo.cs",
+              "RelativeToolTip": "Ucode.Core\\Models\\Modulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:48:02.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Edit.razor.cs",
-              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Web\\Pages\\Alunos\\Edit.razor.cs",
-              "RelativeDocumentMoniker": "Ucode.Web\\Pages\\Alunos\\Edit.razor.cs",
-              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Web\\Pages\\Alunos\\Edit.razor.cs",
-              "RelativeToolTip": "Ucode.Web\\Pages\\Alunos\\Edit.razor.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAswDMAAAANAAAA",
+              "DocumentIndex": 2,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\UcodeAluno\\src\\Ucode.Core\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "Ucode.Core\\Models\\Curso.cs",
+              "ToolTip": "C:\\UcodeAluno\\src\\Ucode.Core\\Models\\Curso.cs",
+              "RelativeToolTip": "Ucode.Core\\Models\\Curso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T14:06:09.521Z",
+              "WhenOpened": "2024-10-12T15:47:16.679Z",
               "EditorCaption": ""
             }
           ]

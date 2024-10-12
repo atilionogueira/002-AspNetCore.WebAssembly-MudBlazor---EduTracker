@@ -7,7 +7,7 @@ namespace Ucode.Web
     {
         public const string HttpClientName = "ucode";
         public static string BackendUrl { get; set; } = "http://localhost:5270";
-     //   public static string FrontendUrl { get; set; } = "http://localhost:5249";
+   
 
         public static MudTheme Theme = new() 
         {

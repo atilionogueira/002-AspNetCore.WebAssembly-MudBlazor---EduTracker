@@ -14,6 +14,6 @@ namespace Ucode.Core.Requests.Curso
         public ECursoCategoria Categoria { get; set; }
 
         [Required]
-        public string Resumo { get; set; } = string.Empty;
+        public string? Resumo { get; set; } 
     }
 }

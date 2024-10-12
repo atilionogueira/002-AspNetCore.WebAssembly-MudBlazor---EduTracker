@@ -1,8 +1,10 @@
-﻿using Ucode.Api.Common.Api;
+﻿using System.Security.Claims;
+using Ucode.Api.Common.Api;
 using Ucode.Core.Handlers;
 using Ucode.Core.Models;
 using Ucode.Core.Requests.Curso;
 using Ucode.Core.Responses;
+
 
 namespace Ucode.Api.Endpoints.Cursos
 {
@@ -16,12 +18,13 @@ namespace Ucode.Api.Endpoints.Cursos
             .WithOrder(2)
             .Produces<Response<Curso?>>();
         private static async Task<IResult> HandleAsync(
+            ClaimsPrincipal user,
             ICursoHandler handler,
             UpdateCursoRequest request,
             long id)
         {
 
-            request.UserId = "test@balta.io";
+            request.UserId = user.Identity?.Name ?? string.Empty;
             request.Id = id;
 
             var result = await handler.UpdateAsync(request);
